@@ -36,6 +36,6 @@ This project is a simple web application that fetches a single random image from
 - This project uses the JSONPlaceholder API for fetching images.
 
 - ## deploye link
-- https://6668150bbef6d2d26b6c5fd6--guileless-sundae-e5da6f.netlify.app/
+-https://66685bc1241d3906f8b46df6--clever-begonia-8134c6.netlify.app/
 
 Feel free to contribute or provide feedback on this project!
